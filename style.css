@@ -1,0 +1,26 @@
+body {
+    background: rgb(87, 24, 87);
+    font: normal 1em Arial;
+}
+
+header{
+    color: whitesmoke;
+    text-align: center;
+}
+
+section{
+    background: whitesmoke;
+    border-radius: 8px;
+    padding: 25px;
+    width: 30em;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.493) ; /*deslocamento lateral,
+     deslocamento vertical,
+      espalhamento,
+       cor*/
+}
+
+footer{
+color: white;
+text-align: center;
+}
